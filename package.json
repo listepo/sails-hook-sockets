@@ -10,14 +10,14 @@
   ],
   "dependencies": {
     "socket.io": "^1.2.1",
-    "semver": "^4.3.4",
-    "lodash": "^2.4.1",
-    "machinepack-urls": "^3.1.1",
+    "semver": "^5.0.1",
+    "lodash": "^3.10.1",
+    "machinepack-urls": "^5.0.0",
     "socket.io-client": "^1.2.1"
   },
   "devDependencies": {
-    "async": "^0.9.0",
-    "machinepack-fs": "^3.0.0",
+    "async": "^1.4.2",
+    "machinepack-fs": "^5.2.0",
     "machinepack-http": "^2.1.2",
     "mocha": "^2.2.4",
     "sails": "0.11.0",
